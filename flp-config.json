@@ -1,0 +1,35 @@
+{
+    "application": {
+        "id": "",
+        "title": "com.demo.OpenWeatherSample",
+        "description": "Weather Conditions",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/webapp",
+        "appUrl": "#OpenWeatherSample-Display",
+        "navigationComponentName": "com.demo",
+        "intentSemanticObject": "OpenWeatherSample",
+        "intentAction": "Display",
+        "html5ApplicationName": "openweathersample",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "f4bd8ce2-e630-4b4b-ab60-4fbaca2b6641"
+        ],
+        "contentPackages": [
+            "b02ef117-0b80-4d2b-bc26-881e9b186401-1516005406885"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Weather Info",
+        "subtitle": "Weather Condition in Your City",
+        "searchKeywords": "Weather Info,Weather Condition in Your City",
+        "displayIconUrl": "sap-icon://temperature",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}

@@ -1,0 +1,23 @@
+/* Enter your custom styles here */
+
+.headerText{
+    color: #666666;
+    font-size: 1.875rem !important;
+}
+
+.tempText{
+   
+    font-size: 3rem !important;
+}
+
+.sapUiFormM:not(.sapUiFormEdit) .sapUiFormResGridCont>div {
+    padding-top: .89rem !important;
+    padding-bottom: 0.25rem;
+    font-size: 1px;
+    border: 1px solid grey !important;
+        padding-left: 20px!important;
+}
+
+.sapUiFormResGrid.sapUiFormBackgrTranslucent>div {
+    background-color: rgba(220, 237, 240, 0.04);
+}

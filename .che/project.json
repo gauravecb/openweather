@@ -1,0 +1,1 @@
+{"type":"sap.web","builders":{"configs":{}},"runners":{"configs":{}},"attributes":{"sap.watt.common.setting":["{\"hcpdeploy\":{\"account\":\"p15021707trial\",\"name\":\"openweathersample\",\"lastVersionWeTriedToDeploy\":\"1.0.8\"},\"projectType\":[\"sap.watt.uitools.ide.web\",\"sap.watt.uitools.ide.fiori\"]}"]},"description":"","mixinTypes":[]}
